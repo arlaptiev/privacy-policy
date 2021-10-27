@@ -1,6 +1,6 @@
 # Privacy Policy for Chrome Web Apps
 
-No data or personal information is collected by my Chrome Web Apps. Some sensitive data might be transmitted as the only means the app would work.
+No data or personal information is collected by my Chrome Web Apps. Some sensitive data, including but not limited to expiring keys for accessing website data on user's behalf, might be transmitted to the server, used to access the data, and then removed.
 
 ##### Contact
 
